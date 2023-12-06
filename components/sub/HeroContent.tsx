@@ -33,7 +33,7 @@ const HeroContent = () => {
         className="flex flex-col gap-6 text-6xl font-bold text-white max-w-[600px] w-auto h-auto"
         >
             <span>
-            Hi I&apos;m
+            Hi I'm
             <span className='text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500'> Mark Laurence </span>
             Full Stack Web Developer!!
             </span>
@@ -43,7 +43,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I&apos;m a Full Stack Web Developer With Experience In Creating Responsive Website. Check out my project and skills.
+          I'm a Full Stack Web Developer With Experience In Creating Responsive Website. Check out my project and skills.
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}
