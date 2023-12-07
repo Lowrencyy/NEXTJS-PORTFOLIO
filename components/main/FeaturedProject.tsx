@@ -9,7 +9,7 @@ const FeaturedProject = () => {
           id="projects"
         >
           <h1 className="text-[40px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-20">
-            Featured Project's
+            Featured Project&#39;s
           </h1>
           <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
          <a href="https://cinezone.netlify.app/">
@@ -37,34 +37,6 @@ const FeaturedProject = () => {
               description="A Website Utilizing Pure HTML CSS with context of News"
             />
           </div>
-
-          {/* additional project for future purposes  */}
-          {/* <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10 mt-5">
-            <ProjectCard
-              src="/NextWebsite.png"
-              title="Modern Next.js Portfolio"
-              description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-            />
-            <ProjectCard
-              src="/CardImage.png"
-              title="KODENEWS.NETLIFY.APP"
-              description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-            />
-            <ProjectCard
-              src="/SpaceWebsite.png"
-              title="Space Themed Website"
-              description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-              
-            />
-            <ProjectCard
-              src="/SpaceWebsite.png"
-              title="Space Themed Website"
-              description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-              
-            />
-          
-           
-          </div> */}
         </div>
       </section>
       );

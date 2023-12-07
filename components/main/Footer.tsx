@@ -16,7 +16,7 @@ const Footer = () => {
         <a href="#" className="flex justify-center items-center text-2xl font-semibold text-white dark:text-white">
             MARK LAURENCE TOMENIO    
         </a>
-        <p className="my-6 text-gray-500 dark:text-white">Here's My Additional Contact Info</p>
+        <p className="my-6 text-gray-500 dark:text-white">Here&#39;s My Additional Contact Info</p>
         <ul className="flex flex-wrap justify-center items-center mb-6 text-white dark:text-white">
             <li>
                 <a href="#" className="mr-4 hover:underline md:mr-6 ">Facebook</a>
