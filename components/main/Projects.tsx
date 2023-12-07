@@ -19,12 +19,12 @@ const Projects = () => {
           description="A Website Promoting Our Country Build Using HTML,CSS,Bootstrap And Javascript."
         />
         <ProjectCard
-          src="/Cinezonev2.png"
+          src="/cinezonev2.png"
           title="CINEZONE.NETLIFY.APP"
           description="A Website Build Using HTML and Tailwind also fetching API from the TMDB"
         />
         <ProjectCard
-          src="/kodecamp86.png"
+          src="/Kodecamp86.png"
           title="KODECAMP"
           description="A Lecture Website With Backend MariaDB Data Using HTML CSS and Javascript"
         />
