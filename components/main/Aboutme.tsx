@@ -44,7 +44,7 @@ const Aboutme = () => {
             </div>
 
 
-            <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white sm:text-6xl md:text-5xl lg:text-6xl dark:text-white">NETWORK PROJECT'S</h1>
+            <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white sm:text-6xl md:text-5xl lg:text-6xl dark:text-white">NETWORK PROJECT&#39;S</h1>
             <div className="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 sm:py-16 lg:px-6">
 
             <video
@@ -136,7 +136,7 @@ const Aboutme = () => {
                     <path d="M14.017 18L14.017 10.609C14.017 4.905 17.748 1.039 23 0L23.995 2.151C21.563 3.068 20 5.789 20 8H24V18H14.017ZM0 18V10.609C0 4.905 3.748 1.038 9 0L9.996 2.151C7.563 3.068 6 5.789 6 8H9.983L9.983 18L0 18Z" fill="currentColor"/>
                 </svg> 
                 <blockquote>
-                    <p className="text-2xl font-medium text-white dark:text-white">"IF THE PATH THAT YOU WANT SEEM'S TO BE EASY THEN YOU ARE IN A WRONG PATH"</p>
+                    <p className="text-2xl font-medium text-white dark:text-white">"IF THE PATH THAT YOU WANT SEEM&#39;S TO BE EASY THEN YOU ARE IN A WRONG PATH"</p>
                 </blockquote>
                 <figcaption className="flex items-center justify-center mt-6 space-x-3">
                 
