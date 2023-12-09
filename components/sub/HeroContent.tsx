@@ -34,7 +34,7 @@ const HeroContent = () => {
         >
             <span >
             <span className="im">Hi I&#39;m</span>
-            <span className='text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500'>Mark Laurence </span>
+            <span className='text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500'> Mark Laurence </span>
             Full Stack Web Developer!!
             </span>
         </motion.div>

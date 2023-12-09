@@ -23,6 +23,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+      <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet"/>
+      </head>
       <body
         className={`${inter.className} bg-[#030014] overflow-y-scroll overflow-x-hidden`}
       >
@@ -31,8 +34,13 @@ export default function RootLayout({
         {children}
         <Projects />
         <Footer />
+        <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+        
+        <script>
+        AOS.init();
+        </script>
+
       </body>
-      
     </html>
   );
 }
