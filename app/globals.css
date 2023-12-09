@@ -87,6 +87,26 @@ html {
 
 }
 
+.rence-br{
+  border-radius: 75px;
+}
+
+.ml{
+  border-radius: 25px;
+}
+
+.rence-img{
+  border-radius: 180px 220px 0px ;
+  width: 420px;
+}
+
+#card:hover{
+  transform: scale(1.10);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+/* media query  */
+
 @media (max-width: 600px) {
   .ml-small {
       font-size: 14px;
@@ -115,5 +135,11 @@ html {
 }
 
 
-/* button  */
+
+
+
+
+
+
+
 

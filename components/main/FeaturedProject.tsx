@@ -3,13 +3,13 @@ import ProjectCard from "../sub/ProjectCard";
 
 const FeaturedProject = () => {
     return (
-      <section>
+      <section className="sticky z-50 ">
           <div
           className="flex flex-col items-center justify-center mb-20"
           id="projects"
         >
           <h1 className="text-[40px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-20">
-            Featured Project&#39;s
+           FEATURED PROJECT&#39;S
           </h1>
           <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
          <a href="https://cinezone.netlify.app/">

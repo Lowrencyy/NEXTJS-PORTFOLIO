@@ -6,27 +6,29 @@ import { motion } from "framer-motion";
 const Projects = () => {
   return (
     <div
-      className="flex flex-col items-center justify-center py-20"
+      className="flex sticky z-20 flex-col items-center justify-center py-20"
       id="projects"
     >
       <h1 className="text-[40px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-20">
-        My Projects
+        MY PROJECT&#39;S
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
-        <ProjectCard
+       <a className="sticky" href="https://discoverphilippines.netlify.app/">
+         <ProjectCard
           src="/DiscoverPH.png"
-          title="DISCOVERPHILIPPINES.NETLIFY.APP"
+          title="DISCOVER PHILIPPINES"
           description="A Website Promoting Our Country Build Using HTML,CSS,Bootstrap And Javascript."
         />
+       </a>
         <ProjectCard
           src="/cinezonev2.png"
-          title="CINEZONE.NETLIFY.APP"
-          description="A Website Build Using HTML and Tailwind also fetching API from the TMDB"
+          title="CINEZONE"
+          description="A Website Build Using REACT and Tailwind also fetching API from the TMDB"
         />
         <ProjectCard
           src="/Kodecamp86.png"
           title="KODECAMP"
-          description="A Lecture Website With Backend MariaDB Data Using HTML CSS and Javascript"
+          description="A KODEGO Lecture Website With Backend MariaDB Data Using HTML CSS and PHP LARAVEL"
         />
       </div>
            <FeaturedProject/>

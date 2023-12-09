@@ -1,28 +1,21 @@
 import React from "react";
-import {
-  RxDiscordLogo,
-  RxGithubLogo,
-  RxInstagramLogo,
-  RxTwitterLogo,
-  RxLinkedinLogo,
-} from "react-icons/rx";
 
-import { FaYoutube } from "react-icons/fa";
+
 
 const Footer = () => {
   return (
-    <footer className="p-4 bg-transparent md:p-8 lg:p-10 dark:bg-gray-800">
+    <footer className="p-4 sticky bg-transparent md:p-8 lg:p-10 dark:bg-gray-800 z-50">
     <div className="mx-auto max-w-screen-xl text-center">
         <a href="#" className="flex justify-center items-center text-2xl font-semibold text-white dark:text-white">
             MARK LAURENCE TOMENIO    
         </a>
         <p className="my-6 text-gray-500 dark:text-white">Here&#39;s My Additional Contact Info</p>
-        <ul className="flex flex-wrap justify-center items-center mb-6 text-white dark:text-white">
-            <li>
-                <a href="#" className="mr-4 hover:underline md:mr-6 ">Facebook</a>
+        <ul className="flex flex-wrap z-51 justify-center items-center mb-6 text-white dark:text-white">
+            <li className="z-54">
+                <a href="/lowrency" className="mr-4 hover:underline md:mr-6 ">Facebook</a>
             </li>
             <li>
-                <a href="#" className="mr-4 hover:underline md:mr-6">Instagram</a>
+                <a href="www.facebook.com" className="mr-4 hover:underline md:mr-6">Instagram</a>
             </li>
             <li>
                 <a href="#" className="mr-4 hover:underline md:mr-6 ">LinkedIn</a>

@@ -34,7 +34,7 @@ const HeroContent = () => {
         >
             <span >
             <span className="im">Hi I&#39;m</span>
-            <span className='text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500'> Mark Laurence </span>
+            <span className='text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500'>Mark Laurence </span>
             Full Stack Web Developer!!
             </span>
         </motion.div>
@@ -48,7 +48,7 @@ const HeroContent = () => {
       
        <motion.a
           variants={slideInFromLeft(1)}
-          className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px] "
+          className="py-2 button-primary text-center ml text-white cursor-pointer rounded-lg max-w-[200px] "
           href="https://www.dropbox.com/scl/fi/qhm9w8y6yw64ptzwb4cml/Mark-Laurence-Tomenio.pdf?rlkey=vvw3vsl0o85f0iotr38iulq78&dl=0"
           target="_blank"
         >
