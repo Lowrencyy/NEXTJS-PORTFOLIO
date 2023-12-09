@@ -34,8 +34,10 @@ export default function RootLayout({
         {children}
         <Projects />
         <Footer />
+        //eslint-disable-next-line
         <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-        
+
+        //eslint-disable-next-line
         <script>
         AOS.init();
         </script>
