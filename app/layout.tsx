@@ -7,6 +7,8 @@ import Footer from "@/components/main/Footer";
 import Projects from "@/components/main/Projects";
 
 
+
+
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
@@ -32,8 +34,6 @@ export default function RootLayout({
         {children}
         <Projects />
         <Footer />
-  
-
       </body>
     </html>
   );

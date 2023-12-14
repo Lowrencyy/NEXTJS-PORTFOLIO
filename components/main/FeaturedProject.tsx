@@ -12,7 +12,7 @@ const FeaturedProject = () => {
            FEATURED PROJECT&#39;S
           </h1>
           <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
-         <a href="https://cinezone.netlify.app/">
+         <a target="_blank" href="https://cinezone.netlify.app/">
          <ProjectCard
               src="/Cinezone.png"
               title="CINEZONE.NETLIFY.APP"
@@ -20,22 +20,27 @@ const FeaturedProject = () => {
               
             />
          </a>
-            <ProjectCard
+         <a href="https://kodecamp86.netlify.app/" target="_blank"><ProjectCard
               src="/Kodecamp.png"
-              title="KODECAMP86.NETLIFY.APP"
+              title="KODECAMP86"
               description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-            />
-            <ProjectCard
+            /></a>
+
+           <a target="_blank" href="https://koderesto.netlify.app/">
+           <ProjectCard
               src="/koderesto.png"
-              title="KODERESTO86.NETLIFY.APP"
+              title="KODERESTO86"
               description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
               
             />
-            <ProjectCard
+           </a>
+          <a target="_blank" href="https://kodenews.netlify.app/">
+          <ProjectCard
               src="/kodenews.png"
               title="KODENEWS"
               description="A Website Utilizing Pure HTML CSS with context of News"
             />
+          </a>
           </div>
         </div>
       </section>
