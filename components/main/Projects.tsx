@@ -20,11 +20,13 @@ const Projects = () => {
           description="A Website Promoting Our Country Build Using HTML,CSS,Bootstrap And Javascript."
         />
        </a>
-        <ProjectCard
+     <a href="https://cinezone.netlify.app/">
+     <ProjectCard
           src="/cinezonev2.png"
           title="CINEZONE"
           description="A Website Build Using REACT and Tailwind also fetching API from the TMDB"
         />
+     </a>
         <ProjectCard
           src="/Kodecamp86.png"
           title="KODECAMP"
