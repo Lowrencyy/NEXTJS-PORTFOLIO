@@ -12,25 +12,25 @@ const Footer = () => {
         <p className="my-6 text-gray-500 dark:text-white">Here&#39;s My Additional Contact Info</p>
         <ul className="flex flex-wrap z-51 justify-center items-center mb-6 text-white dark:text-white">
             <li className="z-54">
-                <a href="/lowrency" className="mr-4 hover:underline md:mr-6 ">Facebook</a>
+                <a href="https://www.facebook.com/lowrencyy/" target="_blank" className="mr-4 hover:underline md:mr-6 ">Facebook</a>
             </li>
             <li>
-                <a href="www.facebook.com" className="mr-4 hover:underline md:mr-6">Instagram</a>
+                <a href="https://www.instagram.com/lowrencyy/" className="mr-4 hover:underline md:mr-6">Instagram</a>
             </li>
             <li>
-                <a href="#" className="mr-4 hover:underline md:mr-6 ">LinkedIn</a>
+                <a href="https://www.linkedin.com/in/marklaurencetomenio/" className="mr-4 hover:underline md:mr-6 ">LinkedIn</a>
             </li>
             <li>
-                <a href="#" className="mr-4 hover:underline md:mr-6">Messenger</a>
+                <a href="https://www.facebook.com/lowrencyy/" className="mr-4 hover:underline md:mr-6">Messenger</a>
             </li>
             <li>
-                <a href="#" className="mr-4 hover:underline md:mr-6">Telegram</a>
+                <a href="https://t.me/ItsMeRenzy" className="mr-4 hover:underline md:mr-6">Telegram</a>
             </li>
             <li>
-                <a href="#" className="mr-4 hover:underline md:mr-6">Github</a>
+                <a href="https://github.com/Lowrencyy" className="mr-4 hover:underline md:mr-6">Github</a>
             </li>
             <li>
-                <a href="#" className="mr-4 hover:underline md:mr-6">Contact</a>
+                <a href="#" className="mr-4 hover:underline md:mr-6">Viber</a>
             </li>
         </ul>
         <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023<a href="#" className="hover:underline">Mark Laurence Tomenio</a>. All Rights Reserved.</span>

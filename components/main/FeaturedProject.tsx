@@ -23,14 +23,14 @@ const FeaturedProject = () => {
          <a href="https://kodecamp86.netlify.app/" target="_blank"><ProjectCard
               src="/Kodecamp.png"
               title="KODECAMP86"
-              description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+              description="A Website For School Management System Using HTML and Pure CSS"
             /></a>
 
            <a target="_blank" href="https://koderesto.netlify.app/">
            <ProjectCard
               src="/koderesto.png"
               title="KODERESTO86"
-              description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+              description="A Food Website Utilizing HTML CSS and bootstrap full responsive website"
               
             />
            </a>

@@ -24,7 +24,7 @@ const Projects = () => {
      <ProjectCard
           src="/cinezonev2.png"
           title="CINEZONE"
-          description="A Website Build Using REACT and Tailwind also fetching API from the TMDB"
+          description="A Website Build Using REACT and Tailwind also fetching API from the The Movie DB API"
         />
      </a>
         <ProjectCard
