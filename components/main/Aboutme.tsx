@@ -68,7 +68,7 @@ const Aboutme = () => {
 
                 <div className="mt-4 md:mt-0">
                     <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-white dark:text-white">My Project As Network Admin</h2>
-                    <p className="mb-6 font-light text-white md:text-lg dark:text-gray-400">Way Back 2020 i start freelance as network admin i have knowledge in making Wireless LTE , Network Data Transfer Via P2P Radio Channel / point to point system , also wired network soho for small office business and also i go for remote area's to get data signal using parabolic , yagi litebeam and ubuiquiti equipments</p>
+                    <p className="mb-6 font-light text-white md:text-lg dark:text-gray-400">Way Back 2020 i start freelance as network admin i have knowledge in making Wireless LTE , Network Data Transfer Via P2P Radio Channel / point to point system , also wired network soho for small office business and also i go for remote area&#39;s to get data signal using parabolic , yagi litebeam and ubuiquiti equipments</p>
                  
                 </div>
              
