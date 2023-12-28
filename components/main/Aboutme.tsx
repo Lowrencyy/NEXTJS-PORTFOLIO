@@ -33,10 +33,10 @@ const Aboutme = () => {
            
                 <div className="mt-4 md:mt-0">
 
-                <h6 className="mb-4 text-2xl tracking-tight font-extrabold text-white dark:text-white">As A Web Developer The First Programming Language I learned was Javascript Way Back When I Studying In KODEGO.</h6>
+                <h6 className="mb-4 text-2xl tracking-tight font-extrabold text-white dark:text-white">As A Web Developer The First Programming Language I learned was Javascript</h6>
 
                     <p className="mb-6 font-light text-white font-bold md:text-lg dark:text-gray-400">
-                        Then in my Free Time I Watch Some Lectures and Other Things That Can Enhance My Skills In Web Developing Or Website Designing after a couple of weeks I learn HTML CSS and Framework Of Bootstrap and Tailwind CSS
+                       My Hobbies Is Watching and reading documentation and finding some tools can enhance my skills in web developing fundamentals.
                     </p>
                  
                 </div>
@@ -68,7 +68,7 @@ const Aboutme = () => {
 
                 <div className="mt-4 md:mt-0">
                     <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-white dark:text-white">My Project As Network Admin</h2>
-                    <p className="mb-6 font-light text-white md:text-lg dark:text-gray-400">Before I Start Web Developing i do freelance Network Admin Such As Wireless LTE Specially In Remote Area I have knowledge how to gather data whether the area is remote access or island i do also Point to Point System By Transfering Data From Wireless Radio Channel and also as a network diagram and setup such as SOHO or Corporate Network Cabling and etc.</p>
+                    <p className="mb-6 font-light text-white md:text-lg dark:text-gray-400">Way Back 2020 i start freelance as network admin i have knowledge in making Wireless LTE , Network Data Transfer Via P2P Radio Channel / point to point system , also wired network soho for small office business and also i go for remote area's to get data signal using parabolic , yagi litebeam and ubuiquiti equipments</p>
                  
                 </div>
              
@@ -83,7 +83,7 @@ const Aboutme = () => {
                 <div className="mt-4 md:mt-0">
 
                     <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-white dark:text-white">IT TECHNICAL SUPPORT </h2>
-                    <p className="mb-6 font-light text-white md:text-lg dark:text-gray-400">I Have Additional Knowledge In Computer Fundamentals such as fixing and troubleshoot Computer Hardware and software&#39; i study TESDA NCII Computer System Servicing and i take a short courses from <span className='text-red-700'>GOOGLE IT TECHNICAL SUPPORT</span>i also do a mechatronics like piso wifi and other machine that can be sell in marketplace </p>
+                    <p className="mb-6 font-light text-white md:text-lg dark:text-gray-400">The First Job That I Do Is Computer Technical Support Way Back When i learn this things from tesda which develop my skills in troubleshooting Computer Fundamentals Such As Hardware or Software and in my free time i get the free courses from google which is  GOOGLE IT TECHNICAL SUPPORT And Comptia A+ from Udemy And also my hobbies is making mechatronics device like piso wifi and sell it into marketplace.</p>
                  
                 </div>
                 
@@ -112,7 +112,16 @@ const Aboutme = () => {
                     <path d="M14.017 18L14.017 10.609C14.017 4.905 17.748 1.039 23 0L23.995 2.151C21.563 3.068 20 5.789 20 8H24V18H14.017ZM0 18V10.609C0 4.905 3.748 1.038 9 0L9.996 2.151C7.563 3.068 6 5.789 6 8H9.983L9.983 18L0 18Z" fill="currentColor"/>
                 </svg> 
                 <blockquote>
-                    <p className="text-2xl font-medium text-white dark:text-white">	&#34;IF THE PATH THAT YOU WANT SEEM&#34;S TO BE EASY THEN YOU ARE IN A WRONG PATH	&#34;</p>
+                    <p className="mb-4 text-3xl font-extrabold tracking-tight leading-none text-white sm:text-5xl md:text-5xl lg:text-6xl dark:text-white">	&#34;FULL STACK WEB DEVELOPER CERTIFICATE&#34;</p>
+                    <Image
+                 src="/certificate.png"
+                alt="logo"
+                width={1020}
+                height={920}
+                className='mt-10 br-5'
+               
+            
+          />
                 </blockquote>
                 <figcaption className="flex items-center justify-center mt-6 space-x-3">
                 

@@ -15,7 +15,7 @@ const FeaturedProject = () => {
          <a target="_blank" href="https://cinezone.netlify.app/">
          <ProjectCard
               src="/Cinezone.png"
-              title="CINEZONE.NETLIFY.APP"
+              title="CINEZONE"
               description="A Movie Website Utilizing HTML, CSS and javascript also Fetching Data From The TMDB API"
               
             />

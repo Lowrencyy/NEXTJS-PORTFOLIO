@@ -30,8 +30,8 @@ export const Skill_data = [
       height: 80,
     },
     {
-      skill_name: "Redux",
-      Image: "/redux.png",
+      skill_name: "mariadb",
+      Image: "/mariadb.png",
       width: 80,
       height: 80,
     },
@@ -60,8 +60,8 @@ export const Skill_data = [
       height: 80,
     },
     {
-      skill_name: "Stripe Payment",
-      Image: "/stripe.webp",
+      skill_name: "Bootstrap",
+      Image: "/bootstrap.png",
       width: 80,
       height: 80,
     },
@@ -82,8 +82,8 @@ export const Skill_data = [
   
   export const Socials = [
     {
-      name: "Discord",
-      src: "/instagram.svg",
+      name: "Linkedin",
+      src: "/linkedIn.jfif",
     },
     {
       name: "Facebook",
@@ -91,7 +91,7 @@ export const Skill_data = [
     },
     {
       name: "Instagram",
-      src: "/discord.svg",
+      src: "/instagram.png",
     },
   ];
   
@@ -123,8 +123,8 @@ export const Skill_data = [
       height: 80,
     },
     {
-      skill_name: "Material UI",
-      Image: "/mui.png",
+      skill_name: "GIT",
+      Image: "/git.png",
       width: 80,
       height: 80,
     },
@@ -180,8 +180,8 @@ export const Skill_data = [
       height: 40,
     },
     {
-      skill_name: "Fire base",
-      Image: "/Firebase.png",
+      skill_name: "framer",
+      Image: "/framer.png",
       width: 55,
       height: 55,
     },
@@ -198,14 +198,14 @@ export const Skill_data = [
       height: 70,
     },
     {
-      skill_name: "Prisma",
-      Image: "/prisma.webp",
+      skill_name: "github",
+      Image: "/github.png",
       width: 70,
       height: 70,
     },
     {
-      skill_name: "Graphql",
-      Image: "/graphql.png",
+      skill_name: "jquery",
+      Image: "/jquery.png",
       width: 80,
       height: 80,
     },
@@ -219,14 +219,14 @@ export const Skill_data = [
       height: 70,
     },
     {
-      skill_name: "Tauri",
-      Image: "/tauri.svg",
+      skill_name: "laravel",
+      Image: "/laravel.jpg",
       width: 70,
       height: 70,
     },
     {
-      skill_name: "Docker",
-      Image: "/docker.webp",
+      skill_name: "navicat",
+      Image: "/navicat.jpeg",
       width: 70,
       height: 70,
     },

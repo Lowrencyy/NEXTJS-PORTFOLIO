@@ -18,13 +18,13 @@ const SkillText = () => {
         </motion.div>
         <motion.div
         variants={slideInFromLeft(0.5)}
-        className='text-[30px] text-white font-medium mt-[10px] text-center mb-[15px]'
+        className='text-[30px] text-white font-medium mt-[10px] text-center mb-[5px]'
         >
             Making Website Using This Tools
         </motion.div>
         <motion.div
         variants={slideInFromRight(0.5)}
-        className='monospace text-[20px] text-gray-200 mb-10 mt-[10px] text-center'
+        className='monospace text-[20px] text-gray-200 mb-10 mt-[20px] text-center'
         >
             Never miss a task, deadline or idea
         </motion.div>
